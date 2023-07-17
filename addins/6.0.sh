@@ -1,2 +1,2 @@
 #!/bin/bash
-GIT_BRANCH="release/6.0-patch1"
+GIT_BRANCH="release/6.0-patch-2"

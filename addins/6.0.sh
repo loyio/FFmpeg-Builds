@@ -1,2 +1,2 @@
 #!/bin/bash
-GIT_BRANCH="release/loyio-patch-1"
+GIT_BRANCH="loyio-patch-1"

@@ -163,7 +163,7 @@ jobs:
       fail-fast: false
       matrix:
         target: [win32]
-        variant: [lgpl-shared 6.0]
+        variant: [gpl-shared 6.0, lgpl-shared 6.0]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -216,7 +216,7 @@ jobs:
       fail-fast: false
       matrix:
         target: [win32]
-        variant: [lgpl-shared 6.0]
+        variant: [gpl-shared 6.0, lgpl-shared 6.0]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
